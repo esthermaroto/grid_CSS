@@ -1,0 +1,20 @@
+.container {
+    width: 100%;
+    font-size: 40px;
+    background-color: lightgray;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+    grid-template-rows: 1fr 1fr 1fr ;
+    grid-gap: 10px ;
+
+}
+
+.d1{background-color: lightblue;}
+.d2{background-color: lightcoral;
+    justify-self: center;    
+}
+.d3{background-color: lightskyblue;
+    align-self: end;
+}
+.d4{background-color: lightpink;}
+.d5{background-color: lightgreen;}
