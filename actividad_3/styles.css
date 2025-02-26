@@ -1,0 +1,14 @@
+.container {
+    width: 100%;
+    font-size: 40px;
+    background-color: lightgray;
+    display: grid;
+    grid-template-columns: 100px 100px 100px;
+    grid-template-rows: 50px 50px 50px;
+}
+
+.d1{background-color: lightblue;}
+.d2{background-color: lightcoral;}
+.d3{background-color: lightskyblue;}
+.d4{background-color: lightpink;}
+.d5{background-color: lightgreen;}
