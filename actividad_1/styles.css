@@ -1,0 +1,12 @@
+.container {
+    width: 100%;
+    font-size: 40px;
+    background-color: lightgray;
+    display: grid;
+}
+
+.d1{background-color: lightblue;}
+.d2{background-color: lightcoral;}
+.d3{background-color: lightskyblue;}
+.d4{background-color: lightpink;}
+.d5{background-color: lightgreen;}
